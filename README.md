@@ -1,5 +1,5 @@
-# Bussines Card #
+# Bussines Card  🎫
 
-### Tasks done:
+### Tasks done: ✔️
 - receipt of the graphic design,
 - transfer the graphic from Fimga to HTML and CSS
